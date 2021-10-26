@@ -1,0 +1,25 @@
+#comandos {
+  align-items: center;
+  text-align: left;
+  margin-top: 440px;
+  margin-left: 2.5%;
+  background: orangered;
+  padding: 20px;
+  width: 95%;
+}
+#comandos .container {
+  padding: 10px;
+}
+#comandos .titulo {
+  margin-bottom: 10px;
+}
+#comandos .titulo span {
+  background: gray;
+}
+#comandos .comandos {
+  background: rgb(204, 64, 13);
+  padding: 20px;
+}
+#comandos .comandos br {
+  margin-bottom: 20px;
+}

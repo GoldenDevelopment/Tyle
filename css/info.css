@@ -1,0 +1,17 @@
+main .container {
+  text-align: center;
+  margin-top: 200px;
+}
+main .boton a {
+  position: relative;
+  text-decoration: none;
+  top: 15px;
+  padding: 10px 30px;
+  background: rgb(1, 163, 163);
+  border-radius: 10px;
+  transition: all .5s;
+}
+main .boton a:hover {
+  background: rgb(1, 148, 148);
+  padding: 12px 35px;
+}
